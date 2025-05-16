@@ -61,3 +61,23 @@ console.log("Número introducido: " + numero);
 console.log("Decenas: " + decenas);
 console.log("Unidades: " + unidades);
 alert("Decenas: " + decenas + "\nUnidades: " + unidades);
+
+//Ejercicio 6
+// Pedir al usuario un número entero
+let limite = parseInt(prompt("Introduce un número entero:"));
+
+// Inicializar una variable para almacenar la lista
+let lista = "";
+
+// Usar un bucle for para construir la lista
+for (let i = 0; i <= limite; i++) {
+  lista += i;
+  if (i < limite) {
+    lista += ", ";
+  }
+}
+
+// Mostrar la lista en consola y en una alerta
+console.log("Lista de números: " + lista);
+alert("Lista de números:\n" + lista);
+
