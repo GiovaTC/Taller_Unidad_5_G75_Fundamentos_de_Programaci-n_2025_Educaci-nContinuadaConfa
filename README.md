@@ -3,4 +3,6 @@
 total debes sumar al precio el resultado de multiplicar precio por el iva y dividir por 100.
 ![image](https://github.com/user-attachments/assets/23bffa3a-e281-4f0f-8b25-b35319400512)
 
-## 2. 
+## 2. En una variable tienes el lado de un cuadrado, debes escribir un programa que te calcule el área y el perímetro del cuadrado.
+![image](https://github.com/user-attachments/assets/dab62527-f0ab-44a8-8697-c541f410d4fb)
+
