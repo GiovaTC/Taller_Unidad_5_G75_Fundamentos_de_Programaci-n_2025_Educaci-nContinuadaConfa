@@ -23,3 +23,14 @@ let perimetro = 4 * lado;
 console.log("Lado del cuadrado: " + lado);
 console.log("Área del cuadrado: " + area);
 console.log("Perímetro del cuadrado: " + perimetro);
+
+//Ejercicio  3
+// Pedir el nombre al usuario
+let nombre = prompt("Escribe tu nombre");
+
+// Mostrar el saludo en la consola
+console.log("Hola " + nombre);
+
+// También puedes usar alert si quieres mostrarlo en una ventana emergente
+alert("Hola " + nombre);
+
