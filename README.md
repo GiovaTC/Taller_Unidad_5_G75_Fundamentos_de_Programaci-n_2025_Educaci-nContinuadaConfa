@@ -9,4 +9,9 @@ total debes sumar al precio el resultado de multiplicar precio por el iva y divi
 ## 3. Un poco de interactividad. En este ejercicio debes escribir un programa que lea el nombre del usuario y salude con un "Hola" seguido del nombre del usuario. Para leer el nombre usa un prompt con un texto indicativo como "Escribe tu nombre"
 ![image](https://github.com/user-attachments/assets/6b45de8b-9161-4040-af8e-6b7ef4580668)
 
+## 4.En este ejercicio vas a pedir al usuario que teclee tres números enteros y el script mostrará como resultado el valor medio de los tres. Recuerda que la media de tres números se calcula sumando los tres y dividiendo entre 3.
+![image](https://github.com/user-attachments/assets/6b6afa3e-7d6c-4d3c-8421-723915228c3b)
+
+
+
 
