@@ -1,0 +1,25 @@
+//Ejercicio 1
+// Definir el precio del producto y el IVA
+let precio = 100; // por ejemplo, 100 euros
+let iva = 21; // por ejemplo, 21%
+
+// Calcular el total a pagar
+let total = precio + (precio * iva / 100);
+
+// Mostrar el resultado
+console.log("Precio del producto: " + precio + "€");
+console.log("IVA: " + iva + "%");
+console.log("Total a pagar: " + total.toFixed(2) + "€");
+
+//Ejercicio 2
+// Definir el valor del lado del cuadrado
+let lado = 5; // puedes cambiar este valor
+
+// Calcular área y perímetro
+let area = lado * lado;
+let perimetro = 4 * lado;
+
+// Mostrar resultados
+console.log("Lado del cuadrado: " + lado);
+console.log("Área del cuadrado: " + area);
+console.log("Perímetro del cuadrado: " + perimetro);
