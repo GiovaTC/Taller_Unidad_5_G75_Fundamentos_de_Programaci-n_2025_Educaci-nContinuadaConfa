@@ -12,6 +12,10 @@ total debes sumar al precio el resultado de multiplicar precio por el iva y divi
 ## 4.En este ejercicio vas a pedir al usuario que teclee tres números enteros y el script mostrará como resultado el valor medio de los tres. Recuerda que la media de tres números se calcula sumando los tres y dividiendo entre 3.
 ![image](https://github.com/user-attachments/assets/6b6afa3e-7d6c-4d3c-8421-723915228c3b)
 
+## 5.En este script debes pedir al usuario un número de dos dígitos y debes devolver el número de unidades y de decenas, o sea, cada dígito del número. Usa solo operaciones aritméticas Recuerda si divides un número entre 10 el cociente entero es el número de decenas y el resto es el número de unidades
+![image](https://github.com/user-attachments/assets/ddf6d01b-f72f-49f6-8ec1-da60811bc4f1)
+
+
 
 
 
