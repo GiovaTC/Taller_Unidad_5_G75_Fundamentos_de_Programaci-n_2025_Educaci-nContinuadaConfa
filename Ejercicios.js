@@ -34,3 +34,16 @@ console.log("Hola " + nombre);
 // También puedes usar alert si quieres mostrarlo en una ventana emergente
 alert("Hola " + nombre);
 
+//Ejercicio 4
+// Pedir tres números al usuario
+let num1 = parseInt(prompt("Teclea el primer número entero:"));
+let num2 = parseInt(prompt("Teclea el segundo número entero:"));
+let num3 = parseInt(prompt("Teclea el tercer número entero:"));
+
+// Calcular la media
+let media = (num1 + num2 + num3) / 3;
+
+// Mostrar el resultado
+console.log("Los números introducidos son:", num1, num2, num3);
+console.log("La media es:", media);
+alert("La media de los tres números es: " + media);
