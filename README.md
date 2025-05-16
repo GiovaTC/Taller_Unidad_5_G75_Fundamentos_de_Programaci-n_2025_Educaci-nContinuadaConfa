@@ -18,6 +18,9 @@ total debes sumar al precio el resultado de multiplicar precio por el iva y divi
 ## 6.Usando un bucle for escribir un script que pida un valor entero y muestre en pantalla una lista de números desde el 0 al valor tecleado. Los números se separarán por comas.
 ![image](https://github.com/user-attachments/assets/0a4c16bf-d7ae-4393-ad3e-e264977da3ce)
 
+## 7.Se trata de crear una aplicación qu calcule la suma de todos los números enteros positivos entre 0 y el número tecleado por el usuario. El resultado será de la forma "Los números enteros de 0 a n suman suma"
+![image](https://github.com/user-attachments/assets/cf0303e0-f0cb-4aac-a861-1c8793551373)
+
 
 
 
