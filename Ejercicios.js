@@ -81,3 +81,20 @@ for (let i = 0; i <= limite; i++) {
 console.log("Lista de números: " + lista);
 alert("Lista de números:\n" + lista);
 
+
+//Ejercicio 7
+// Pedir al usuario un número entero positivo
+let n = parseInt(prompt("Introduce un número entero positivo:"));
+
+// Inicializar la variable suma
+let suma = 0;
+
+// Calcular la suma con un bucle for
+for (let i = 0; i <= n; i++) {
+  suma += i;
+}
+
+// Mostrar el resultado
+let mensaje = "Los números enteros de 0 a " + n + " suman " + suma;
+console.log(mensaje);
+alert(mensaje);
