@@ -47,3 +47,17 @@ let media = (num1 + num2 + num3) / 3;
 console.log("Los números introducidos son:", num1, num2, num3);
 console.log("La media es:", media);
 alert("La media de los tres números es: " + media);
+
+//Ejercicio 5
+// Pedir un número de dos dígitos al usuario
+let numero = parseInt(prompt("Introduce un número de dos dígitos:"));
+
+// Calcular decenas y unidades
+let decenas = Math.floor(numero / 10);
+let unidades = numero % 10;
+
+// Mostrar el resultado
+console.log("Número introducido: " + numero);
+console.log("Decenas: " + decenas);
+console.log("Unidades: " + unidades);
+alert("Decenas: " + decenas + "\nUnidades: " + unidades);
